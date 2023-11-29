@@ -1,5 +1,5 @@
 {
-  "name": "konnco/filament-import",
+  "name": "admoradel/filament-import",
   "description": "",
   "keywords": [
     "import",
@@ -16,6 +16,10 @@
     {
       "name": "Franky So",
       "email": "frankyso.mail@gmail.com"
+    },
+    {
+      "name": "Anibal Moradel",
+      "email": "amoradel@outlook.com"
     }
   ],
   "require": {
